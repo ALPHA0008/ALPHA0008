@@ -51,9 +51,11 @@
 
 ---
 
-## 📈 Contribution Activity
+## 😄 Random Dev Joke
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ALPHA0008&bg_color=0D1117&color=00FF9F&line=00FF9F&point=FFFFFF&area=true&hide_border=true" />
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&bgColor=0D1117&borderColor=00FF9F&textColor=FFFFFF&punchColor=00FF9F&qColor=AAAAAA" alt="Jokes Card" />
+
+> *Refresh the page for a new joke every time* 😂
 
 </div>
 
