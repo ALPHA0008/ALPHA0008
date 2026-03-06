@@ -51,11 +51,30 @@
 
 ---
 
-## 😄 Random Dev Joke
+## 🌍 The Pitch
 
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&bgColor=0D1117&borderColor=00FF9F&textColor=FFFFFF&punchColor=00FF9F&qColor=AAAAAA" alt="Jokes Card" />
-
-> *Refresh the page for a new joke every time* 😂
+```
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   FOUNDER IN PROGRESS — ALPHA0008                          │
+│                                                             │
+│   Problem   : The world has real problems.                  │
+│   Solution  : Technology, built by people who care.        │
+│   Builder   : Abhijith Pingali                              │
+│                                                             │
+│   Stage     : Learning the craft 🌱                        │
+│   Mission   : Build apps that actually matter              │
+│   Belief    : The best startups start with one person       │
+│               who refuses to accept "that's just how        │
+│               it is."                                       │
+│                                                             │
+│   Status    : Laying the foundation, one commit at a time  │
+│                                                             │
+│   ❝ I'm not just learning to code —                        │
+│     I'm learning to build solutions. ❞                     │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
