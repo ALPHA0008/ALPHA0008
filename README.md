@@ -45,14 +45,15 @@
 
 <div align="center">
 
-## 📊 My GitHub Stats
+## 🧠 Daily Dev Wisdom
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ALPHA0008&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9F&icon_color=00FF9F&text_color=FFFFFF&count_private=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALPHA0008&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9F&text_color=FFFFFF" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
-<br/>
+---
 
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=ALPHA0008&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FF9F&ring=00FF9F&fire=FF6E6E&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=888888" />
+## 📈 Contribution Activity
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ALPHA0008&bg_color=0D1117&color=00FF9F&line=00FF9F&point=FFFFFF&area=true&hide_border=true" />
 
 </div>
 
