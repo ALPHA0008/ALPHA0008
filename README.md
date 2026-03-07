@@ -142,7 +142,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9F,100:0D1117&height=100&section=footer&fontSize=14&fontColor=FFFFFF" />
 
-![Visitor Count](https://komarev.com/ghpvc/?username=ALPHA0008&style=for-the-badge&color=00FF9F&label=PROFILE+VIEWS)
 
 *"The best time to start was yesterday. The second best time is now."*
 
